@@ -1,5 +1,5 @@
 # Data files
-*.csv
+# *.csv  (Uncomment if you want to ignore CSV files)
 
 # Python
 __pycache__/
